@@ -1,4 +1,4 @@
-name: forge2d_workspace
+name: forge2d
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
